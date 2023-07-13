@@ -54,6 +54,8 @@ const USER_CONFIG = {
       id: 'obiO96cYcW3LcN7p_Ti04XFuXcoE',
       // 模板ID-------------------------------------------------------------------------------
       useTemplateId: 'HGJsrJfE37h6BoCN4cXL3jICiROLjah3fC1GyN2dvT0',
+      province: '苏州',
+      city: '太仓',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '05-09',
       festivals: [
