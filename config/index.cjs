@@ -76,7 +76,7 @@ const USER_CONFIG = {
         // 在一起纪念日
         { keyword: 'marry_day', date: '2023-04-28' },
       ],
-    }
+    },
   ],
   
 
