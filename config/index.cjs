@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 发送给谁？-----------------------------------------------------------------------------------------
       id: 'obiO96cYcW3LcN7p_Ti04XFuXcoE',
       // 模板ID-------------------------------------------------------------------------------
-      useTemplateId: 'W2XYk9cXmjofn1BwKxMrCjGb2X5WGZXF-KhKyrapBOI',
+      useTemplateId: 'ZB3lK11zsD7yUp-JAb--cLGPEjZGeRlhTpJAuYVL7uY',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '05-09',
       festivals: [
