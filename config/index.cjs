@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 发送给谁？-----------------------------------------------------------------------------------------
       id: 'obiO96cYcW3LcN7p_Ti04XFuXcoE',
       // 模板ID-------------------------------------------------------------------------------
-      useTemplateId: 'ZB3lK11zsD7yUp-JAb--cLGPEjZGeRlhTpJAuYVL7uY',
+      useTemplateId: 'HGJsrJfE37h6BoCN4cXL3jICiROLjah3fC1GyN2dvT0',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '05-09',
       festivals: [
@@ -47,7 +47,38 @@ const USER_CONFIG = {
         { keyword: 'marry_day', date: '2023-04-28' },
       ],
     },
+    {
+      // 想要发送的人的名字
+      name: '倩宝宝',
+      // 发送给谁？-----------------------------------------------------------------------------------------
+      id: 'obiO96dnOOq7TJU82B64Y6jXbGOk',
+      // 模板ID-------------------------------------------------------------------------------
+      useTemplateId: 'HGJsrJfE37h6BoCN4cXL3jICiROLjah3fC1GyN2dvT0',
+      // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
+      horoscopeDate: '05-09',
+      festivals: [
+        // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
+        {
+          type: '*生日', name: '倩宝宝', year: '1997', date: '05-09',
+        },
+        // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
+        {
+          type: '生日', name: '君乐宝', year: '1996', date: '10-25',
+        },
+        {
+          type: '节日', name: '恋爱纪念日', year: '2023', date: '04-28',
+        },
+      ],
+      // 我们在一起已经有xxxx天了的配置
+      customizedDateList: [
+        // 相识的日子
+        { keyword: 'love_day', date: '2023-03-26' },
+        // 在一起纪念日
+        { keyword: 'marry_day', date: '2023-04-28' },
+      ],
+    }
   ],
+  
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
