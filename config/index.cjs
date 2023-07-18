@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 发送给谁？-----------------------------------------------------------------------------------------
       id: 'obiO96dnOOq7TJU82B64Y6jXbGOk',
       // 模板ID-------------------------------------------------------------------------------
-      useTemplateId: 'LrLV2c9rO0SiBY9peKjYrMZ8AaYulRu48hJ-IC9qvHQ',
+      useTemplateId: 'jQBl2TaOf83l5X7dq_USx-UM1xxiBuEAMhvwGSSPXVw',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '05-09',
       festivals: [
@@ -53,7 +53,7 @@ const USER_CONFIG = {
       // 发送给谁？-----------------------------------------------------------------------------------------
       id: 'obiO96cYcW3LcN7p_Ti04XFuXcoE',
       // 模板ID-------------------------------------------------------------------------------
-      useTemplateId: 'LrLV2c9rO0SiBY9peKjYrMZ8AaYulRu48hJ-IC9qvHQ',
+      useTemplateId: 'jQBl2TaOf83l5X7dq_USx-UM1xxiBuEAMhvwGSSPXVw',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '05-09',
       festivals: [
