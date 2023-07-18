@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 发送给谁？-----------------------------------------------------------------------------------------
       id: 'obiO96dnOOq7TJU82B64Y6jXbGOk',
       // 模板ID-------------------------------------------------------------------------------
-      useTemplateId: 'pEmg0LLC4C4UJwSpY_20PpuI_K78ZYoq-aLDfPnpaOo',
+      useTemplateId: 'LrLV2c9rO0SiBY9peKjYrMZ8AaYulRu48hJ-IC9qvHQ',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '05-09',
       festivals: [
@@ -49,13 +49,11 @@ const USER_CONFIG = {
     },
     {
       // 想要发送的人的名字
-      name: '君乐宝',
+      name: '倩宝宝',
       // 发送给谁？-----------------------------------------------------------------------------------------
       id: 'obiO96cYcW3LcN7p_Ti04XFuXcoE',
       // 模板ID-------------------------------------------------------------------------------
-      useTemplateId: 'HGJsrJfE37h6BoCN4cXL3jICiROLjah3fC1GyN2dvT0',
-      province: '苏州',
-      city: '太仓',
+      useTemplateId: 'LrLV2c9rO0SiBY9peKjYrMZ8AaYulRu48hJ-IC9qvHQ',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '05-09',
       festivals: [
